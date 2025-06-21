@@ -29,10 +29,7 @@ Welcome to my LEGO dataset analysis project! This repository contains an interac
 | Folder | Description |
 |--------|--------------|
 | `Data/` | Contains source dataset(s) if allowed, or a link to the data source. |
-| `Reports/` | `.pbix` file and exported `.pdf` version of the dashboard. |
 | `Images/` | Screenshots used in this README. |
-| `Scripts/` | DAX measures, calculated columns, or SQL if preprocessing is done. |
-| `Documentation/` | Project summary, insights, or additional notes. |
 
 ---
 
@@ -45,7 +42,7 @@ Welcome to my LEGO dataset analysis project! This repository contains an interac
   - Interactive table with set name, ID, theme, age range, avg. price, and piece count.
   - Single set image preview.
 
-![Page 1]([Images/page1.png](https://github.com/PaulSourav10/Lego_set_analysis/blob/main/Dash%20board%20screenshots/Lego_set_analysis_page%201.jpg))
+![Page 1](https://github.com/PaulSourav10/Lego_set_analysis/blob/main/Dash%20board%20screenshots/Lego_set_analysis_page%201.jpg)
 
 ---
 
@@ -55,7 +52,7 @@ Welcome to my LEGO dataset analysis project! This repository contains an interac
   - Visualizes how sets are distributed across different themes and categories.
   - Consistent KPI cards for easy context.
 
-![Page 2]([Images/page2.png](https://github.com/PaulSourav10/Lego_set_analysis/blob/main/Dash%20board%20screenshots/Lego_set_analysis_page%202.jpg))
+![Page 2](https://github.com/PaulSourav10/Lego_set_analysis/blob/main/Dash%20board%20screenshots/Lego_set_analysis_page%202.jpg)
 
 ---
 
@@ -94,7 +91,7 @@ This project is for **educational purposes only** — all LEGO trademarks belong
 
 ## 🔗 **Connect with Me**
 
-- [LinkedIn]((https://www.linkedin.com/in/souravpaulofficial/))
+- [LinkedIn](https://www.linkedin.com/in/souravpaulofficial/)
 
 - [Email]
 - souravpaulofficial101@gmail.com

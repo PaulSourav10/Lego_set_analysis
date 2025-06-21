@@ -45,7 +45,7 @@ Welcome to my LEGO dataset analysis project! This repository contains an interac
   - Interactive table with set name, ID, theme, age range, avg. price, and piece count.
   - Single set image preview.
 
-![Page 1](Images/page1.png)
+![Page 1]([Images/page1.png](https://github.com/PaulSourav10/Lego_set_analysis/blob/main/Dash%20board%20screenshots/Lego_set_analysis_page%201.jpg))
 
 ---
 
@@ -55,7 +55,7 @@ Welcome to my LEGO dataset analysis project! This repository contains an interac
   - Visualizes how sets are distributed across different themes and categories.
   - Consistent KPI cards for easy context.
 
-![Page 2](Images/page2.png)
+![Page 2]([Images/page2.png](https://github.com/PaulSourav10/Lego_set_analysis/blob/main/Dash%20board%20screenshots/Lego_set_analysis_page%202.jpg))
 
 ---
 

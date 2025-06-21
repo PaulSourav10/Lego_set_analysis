@@ -94,9 +94,10 @@ This project is for **educational purposes only** — all LEGO trademarks belong
 
 ## 🔗 **Connect with Me**
 
-- [LinkedIn]([#](https://www.linkedin.com/in/souravpaulofficial/))
+- [LinkedIn]((https://www.linkedin.com/in/souravpaulofficial/))
 
-- [Email](souravpaulofficial101@gmail.com)
+- [Email]
+- souravpaulofficial101@gmail.com
 
 ---
 
